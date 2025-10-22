@@ -3,7 +3,7 @@
 
 모델: RandomForest
 
-
+정확도 : 98%
 
 ## Top 20 Features (RandomForest Importance)
 
