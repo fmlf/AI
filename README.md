@@ -1,4 +1,10 @@
 
+데이터셋 : https://www.kaggle.com/datasets/dhoogla/cicidscollection/data
+
+모델: RandomForest
+
+
+
 ## Top 20 Features (RandomForest Importance)
 
 - **세로축: 피처 이름 (네트워크 트래픽 특징 값)**
@@ -32,6 +38,4 @@
 즉, 행렬이 대각선으로 진하게 색칠돼 있으면 잘 맞춘 것이고, 옆으로 퍼지면 혼동이 있다는 뜻.
 
 
-데이터셋 : https://www.kaggle.com/datasets/dhoogla/cicidscollection/data
 
-모델: RandomForest
